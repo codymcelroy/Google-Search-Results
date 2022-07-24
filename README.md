@@ -10,7 +10,7 @@
 
 ## Setup
 
-### environment
+### Environment
 
 - py -m venv env
 - env\Scripts\activate.bat
