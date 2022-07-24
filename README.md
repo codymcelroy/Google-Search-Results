@@ -8,7 +8,7 @@
 
 ![Boston Roofing](assets/boston_roofing.PNG)
 
-## Set up
+## Setup
 
 ### environment
 
